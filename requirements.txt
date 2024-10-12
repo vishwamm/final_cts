@@ -1,0 +1,10 @@
+sentence_transformers
+langchain_groq
+langchain_community
+streamlit
+python-dotenv
+faiss-cpu
+reportlab
+youtube-transcript-api
+pypdf
+
